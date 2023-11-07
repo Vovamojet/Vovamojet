@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Vladimir32r@aol.com
-- https://t.me/vovamojet
+- ✉️ https://t.me/vovamojet
 
 <!---
 Vovamojet/Vovamojet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
