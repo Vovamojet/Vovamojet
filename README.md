@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vovamojet
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 Vladimir32r@aol.com
+- 📫 Vladimir32r@mail.ru
 - ✉️ https://t.me/vovamojet
 
 <!---
