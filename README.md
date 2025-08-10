@@ -3,7 +3,7 @@ const myProfile = {
   name: "Владимир",  
   age: 33,  
   specialty: "frontend-разработчик",  
-  level: "junior",  
+  level: "junior+",  
   commercialExperienceFrom: 2024,  
   activities: [  
     "разрабатываю веб-приложения",  
