@@ -1,6 +1,6 @@
 ```JS
 const myProfile = {  
-  name: "Владимир",  
+  name: "Vladimir",  
   age: 33,  
   specialty: "frontend developer",  
   level: "junior+",  
