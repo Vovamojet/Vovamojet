@@ -2,12 +2,12 @@
 const myProfile = {  
   name: "Владимир",  
   age: 33,  
-  specialty: "frontend-разработчик",  
+  specialty: "frontend developer",  
   level: "junior+",  
   commercialExperienceFrom: 2024,  
   activities: [  
-    "разрабатываю веб-приложения",  
-    "изучаю современные технологии"  
+    "develop web applications",  
+    "I study modern technologies"  
   ],  
    contacts: {  
      email: "Vladimir32r@mail.ru",  
